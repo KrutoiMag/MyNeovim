@@ -1,6 +1,6 @@
 [font]
 normal = { family = "JetBrainsMonoNL Nerd Font", style = "Regular" }
-size = 14
+size = 12
 [general]
 working_directory = "~/"
 import = [
@@ -8,7 +8,8 @@ import = [
 ]
 [window]
 padding = { x = 0, y = 0 }
-dynamic_padding = false
+dynamic_padding = true
+dynamic_title = true
 startup_mode = "Windowed"
 decorations_theme_variant = "None"
 [terminal]
