@@ -1,0 +1,15 @@
+[font]
+normal = { family = "JetBrainsMonoNL Nerd Font", style = "Regular" }
+size = 14
+[general]
+working_directory = "~/"
+import = [
+    "~/.config/alacritty/themes/themes/tokyonight_day.toml"
+]
+[window]
+padding = { x = 0, y = 0 }
+dynamic_padding = false
+startup_mode = "Windowed"
+decorations_theme_variant = "None"
+[terminal]
+shell = {program="/bin/fish", args = ["-C cd ~/"]}
