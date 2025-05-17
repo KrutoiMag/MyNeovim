@@ -1,6 +1,6 @@
 language: shell
 os: linux
 arch: amd64
-install:
+before_install:
   - ./SetupMyNeovimIDE.sh
 script: alacritty -e nvim
