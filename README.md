@@ -1,9 +1,9 @@
 # MyNeovim
-![Preview GIF](PREVIEW.gif)
+![Preview GIF](PREVIEW.gif) { .image100percent }
 ### Plugins
 | Name | Description | GitHub URL |
 | --- | --- | --- |
-| barbar.nvim | | https://github.com/romgrk/barbar.nvim |
+| barbar.nvim | The neovim tabline plugin. | https://github.com/romgrk/barbar.nvim |
 | blink.cmp | Performant, batteries-included completion plugin for Neovim | https://github.com/Saghen/blink.cmp |
 | lazy.nvim | 💤 A modern plugin manager for Neovim | https://github.com/folke/lazy.nvim |
 | lualine.nvim | A blazing fast and easy to configure neovim statusline plugin written in pure lua. | https://github.com/nvim-lualine/lualine.nvim |
