@@ -1,5 +1,5 @@
 # MyNeovim
-![Preview GIF](PREVIEW.gif) { .image100percent }
+![Preview GIF](PREVIEW.gif)
 ### Plugins
 | Name | Description | GitHub URL |
 | --- | --- | --- |
