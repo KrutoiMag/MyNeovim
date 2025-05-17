@@ -31,3 +31,5 @@ Just run:
 ./SetupMyNeovimIDE.sh
 ```
 ### Key Cheatsheet
+---
+License: [MIT](LICENSE)
