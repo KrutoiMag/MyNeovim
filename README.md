@@ -21,6 +21,10 @@
 | tokyonight.nvim | 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. | https://github.com/folke/tokyonight.nvim |
 | which-key.nvim | 💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type. | https://github.com/folke/which-key.nvim |
 | xmake.nvim | The xmake plugin for neovim provides a ui interface that allows you to configure xmake more efficiently. | https://github.com/Mythos-404/xmake.nvim |
+### Tested OSes
+| Name | Status |
+| --- | --- |
+| Debian GNU/Linux 12 (bookworm) | ✅ |
 ### Installing
 Just run:
 ```shell
