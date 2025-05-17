@@ -1,6 +1,7 @@
 language: generic 
 os: linux
 arch: amd64
-script:
+install:
   - ./SetupMyNeovimIDE.sh
+script:
   - alacritty -e nvim
