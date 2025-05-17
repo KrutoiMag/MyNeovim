@@ -21,3 +21,7 @@ vim.api.nvim_create_user_command("ClangFormat", function()
 end, {})
 
 vim.cmd([[tnoremap <Esc> <C-\><C-n>]])
+
+vim.api.nvim_create_user_command("ClangFormat", function()
+	vim.cmd([[%!clang-format-21]])
+end, { nargs = 0 })

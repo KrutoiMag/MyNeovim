@@ -78,6 +78,8 @@ if [[ "$OSTYPE" == "linux-gnu" ]]; then
 		rm -rf 1
 	fi
 
+	sudo apt install clang-format-21
+
 	echo alias alacritty="env WAYLAND_DISPLAY= alacritty" >>$HOME/.bashrc
 	source ~/.bashrc
 
